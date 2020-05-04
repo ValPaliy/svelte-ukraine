@@ -1,2 +1,2 @@
 # svelte-ukraine
-Placholder for SvelteUA web site.
+Placholder for [SvelteUA](https://twitter.com/SvelteUa) web site.
