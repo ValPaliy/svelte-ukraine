@@ -1,6 +1,7 @@
 html,
 body {
     background-color: #ff3c00;
+    overflow: hidden;
 }
 .parent {
     display: grid;
